@@ -1,4 +1,4 @@
-INSERT INTO constituency(id, country, num) VALUES
+INSERT INTO constituency(id, county, num) VALUES
 	(, '', );
 
 

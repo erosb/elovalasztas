@@ -21,7 +21,8 @@ CREATE TABLE IF NOT EXISTS congressman_candidate(
 	name VARCHAR(30),
 	constituency_id INTEGER REFERENCES constituency(id),
 	online_vote_count INTEGER,
-	offline_vote_count INTEGER
+	offline_vote_count INTEGER,
+	fraction INTEGER REFERENCES party(id)
 );
 
 CREATE TABLE IF NOT EXISTS supporting_party(
