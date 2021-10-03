@@ -1,0 +1,252 @@
+county,num,name,online_vote_count,offline_vote_count,total_vote_count,party_fraction,winner
+Bács-Kiskun,1,Szőkéné Kopping Rita,330,1339,1669,DK,t
+Bács-Kiskun,1,Lejer Zoltán,407,1153,1560,Jobbik,f
+Bács-Kiskun,2,Bodrozsán Alexandra,684,2114,2798,Momentum,t
+Bács-Kiskun,2,Király József,311,2062,2373,MSZP-P,f
+Bács-Kiskun,3,Dr. Magóné Tóth Gyöngyi,389,2296,2685,DK,t
+Bács-Kiskun,3,Kudron Nándor,241,2349,2590,Jobbik,f
+Bács-Kiskun,3,Angeli Gabriella,86,286,372,MSZP-P,f
+Bács-Kiskun,4,Kis-Szeniczey Kálmán,0,2425,2425,LMP,t
+Bács-Kiskun,5,Horváth Roland Károly,168,1700,1868,DK,t
+Bács-Kiskun,5,Papp Dénes,232,551,783,Momentum,f
+Bács-Kiskun,5,Kovács Erika,138,552,690,LMP,f
+Bács-Kiskun,6,Kiss László,295,1032,1327,Momentum,t
+Bács-Kiskun,6,László Károly,113,1181,1294,DK,f
+Bács-Kiskun,6,Preiringer Rozália,227,743,970,Jobbik,f
+Bács-Kiskun,6,Vass Antal,86,191,277,UVNP,f
+Baranya,1,Mellár Tamás,872,3691,4563,Párbeszéd,t
+Baranya,1,Nemes Balázs,620,3147,3767,Momentum,f
+Baranya,2,Dr. Szakács László,334,3361,3695,DK,t
+Baranya,2,Dr. Keresztes László Lóránt,763,2744,3507,LMP,f
+Baranya,3,Schwarcz-Kiefer Patrik,361,1638,1999,Jobbik,t
+Baranya,3,Frey Benjámin,289,1067,1356,Momentum,f
+Baranya,4,Szarkándi Lajosné,173,1219,1392,DK,t
+Baranya,4,Koltai Péter,188,1097,1285,MSZP-P,f
+Baranya,4,Alpár György,273,748,1021,Jobbik,f
+Békés,1,Stummer János,751,3870,4621,Jobbik,t
+Békés,1,Miklós Attila,219,1104,1323,MSZP-P,f
+Békés,2,Dr. Kondé Gábor,257,995,1252,DK,t
+Békés,2,Gajdos Attila,335,433,768,Jobbik,f
+Békés,2,Miskéri László,228,475,703,MSZP-P,f
+Békés,3,Leel-Őssy Gábor,307,2041,2348,DK,t
+Békés,3,Mikóné Hirth Bea,399,1300,1699,Momentum,f
+Békés,4,Dr. Szabó Ervin,414,3282,3696,Jobbik,t
+Békés,4,Dr. Szelényi Zoltán,269,1944,2213,MSZP-P,f
+Borsod-Abaúj-Zemplén,1,Szilágyi Szabolcs,593,3665,4258,Jobbik,t
+Borsod-Abaúj-Zemplén,1,Dr. Simon Gábor,214,2686,2900,MSZP-P,f
+Borsod-Abaúj-Zemplén,1,Csabalik Zsuzsanna,103,369,472,LMP,f
+Borsod-Abaúj-Zemplén,2,Dr. Varga László,524,3565,4089,MSZP-P,t
+Borsod-Abaúj-Zemplén,2,Hegedűs Andrea,433,3065,3498,DK,f
+Borsod-Abaúj-Zemplén,3,Kiss Sándor,163,2571,2734,MSZP-P,t
+Borsod-Abaúj-Zemplén,3,Farkas Péter Barnabás,401,2116,2517,Jobbik,f
+Borsod-Abaúj-Zemplén,4,Üveges Gábor,367,2613,2980,Jobbik,t
+Borsod-Abaúj-Zemplén,4,Hornyák Evelin,203,1021,1224,Momentum,f
+Borsod-Abaúj-Zemplén,4,Koleszár István,29,261,290,LMP,f
+Borsod-Abaúj-Zemplén,5,Erdei Sándor Zsolt,361,1733,2094,Jobbik,t
+Borsod-Abaúj-Zemplén,5,Berger Zsolt,223,676,899,Momentum,f
+Borsod-Abaúj-Zemplén,6,Jézsó Gábor,711,2341,3052,MSZP-P,t
+Borsod-Abaúj-Zemplén,7,Sermer Ádám,322,1234,1556,DK,t
+Borsod-Abaúj-Zemplén,7,Kormos Anna,476,740,1216,MSZP-P,f
+Budapest,1,Csárdi Antal,1504,3933,5437,LMP,t
+Budapest,1,Gelencsér Ferenc,1190,2435,3625,Momentum,f
+Budapest,2,Orosz Anna,1731,6714,8445,Momentum,t
+Budapest,2,Gy. Németh Erzsébet,384,3417,3801,DK,f
+Budapest,3,Hajnal Miklós,1612,3769,5381,Jobbik,t
+Budapest,3,Komáromi Zoltán,961,3842,4803,DK,f
+Budapest,3,Visi Piroska,473,1047,1520,UVNP,f
+Budapest,4,Tordai Bence,2526,4441,6967,Párbeszéd,t
+Budapest,4,Kálmán Olga,908,2517,3425,DK,f
+Budapest,5,Oláh Lajos,835,3386,4221,DK,t
+Budapest,5,Tompos Márton,967,1552,2519,Momentum,f
+Budapest,5,Dr. Beleznay Zsuzsanna,967,1070,2037,Jobbik,f
+Budapest,6,Jámbor András,839,2787,3626,Párbeszéd,t
+Budapest,6,Csordás Anett,859,1361,2220,DK,f
+Budapest,6,Manhalter Dániel,328,1728,2056,Momentum,f
+Budapest,6,Demeter Márta,59,592,651,Jobbik,f
+Budapest,7,Hiszékeny Dezső,1778,6019,7797,MSZP-P,t
+Budapest,7,Naszádos Zsófia,1121,2076,3197,Momentum,f
+Budapest,7,Keszthelyi Dorottya,557,2507,3064,DK,f
+Budapest,8,Hadházy Ákos,1965,9105,11070,Momentum,t
+Budapest,8,Tóth Csaba,185,2459,2644,MSZP-P,f
+Budapest,9,Arató Gergely,508,3063,3571,DK,t
+Budapest,9,Burány Sándor,441,2445,2886,Párbeszéd,f
+Budapest,9,Paróczai Anikó,462,1279,1741,Momentum,f
+Budapest,10,Szabó Tímea,1623,7410,9033,Párbeszéd,t
+Budapest,11,Varju László,1519,8335,9854,DK,t
+Budapest,12,Barkóczi Balázs,638,5524,6162,DK,t
+Budapest,12,Palocsai Béla,597,1842,2439,Momentum,f
+Budapest,13,Vajda Zoltán,745,3583,4328,MSZP-P,t
+Budapest,13,Nemes Gábor,264,2399,2663,DK,f
+Budapest,13,Hollai Gábor,490,2010,2500,Momentum,f
+Budapest,13,Palotás János,119,556,675,UVNP,f
+Budapest,14,Szilágyi György,952,4180,5132,Jobbik,t
+Budapest,14,Lukoczki Károly,499,2599,3098,MSZP-P,f
+Budapest,15,Kunhalmi Ágnes,1220,5075,6295,MSZP-P,t
+Budapest,15,Ferencz István,351,2521,2872,DK,f
+Budapest,16,Dr. Hiller István,1172,5763,6935,MSZP-P,t
+Budapest,16,Vidákovics László,272,1008,1280,UVNP,f
+Budapest,17,Szabó Szabolcs,1021,4529,5550,Momentum,t
+Budapest,17,Komjáthi Imre,285,2694,2979,MSZP-P,f
+Budapest,18,Tóth Endre,1385,4321,5706,Momentum,t
+Budapest,18,Molnár Gyula,613,5020,5633,DK,f
+Csongrád,1,Szabó Sándor,0,6588,6588,MSZP-P,t
+Csongrád,1,Binszki József,0,2416,2416,DK,f
+Csongrád,2,Mihálik Edvin,855,2562,3417,Momentum,t
+Csongrád,2,Tóth Péter,310,1780,2090,Jobbik,f
+Csongrád,2,Tóth Szabolcs,445,834,1279,Momentum,f
+Csongrád,3,Szűcs Ildikó,308,2478,2786,Jobbik,t
+Csongrád,3,Borsik Viktor,243,1233,1476,Momentum,f
+Csongrád,3,Mészáros Gábor,171,706,877,UVNP,f
+Csongrád,4,Márki-Zay Péter,822,4248,5070,UVNP,t
+Csongrád,4,Mucsi Tamás,86,1052,1138,DK,f
+Fejér,1,Márton Roland,795,2262,3057,MSZP-P,t
+Fejér,1,Ráczné Földi Judit,358,2082,2440,DK,f
+Fejér,3,Balázs Péter,892,1931,2823,DK,t
+Fejér,3,József András,366,459,825,Momentum,f
+Fejér,3,Bogdán János,260,291,551,Párbeszéd,f
+Fejér,4,Kálló Gergely,561,4788,5349,Jobbik,t
+Fejér,4,Kovács Janka,252,785,1037,Momentum,f
+Fejér,5,Kertész Éva,331,1456,1787,DK,t
+Fejér,5,Gottlóz Tibor,124,219,343,UVNP,f
+Fejér,5,Orosvári Zsolt,106,215,321,Momentum,f
+Győr-Moson-Sopron,1,Jancsó Zita,345,2627,2972,DK,t
+Győr-Moson-Sopron,1,Rehó Tibor,728,1787,2515,Momentum,f
+Győr-Moson-Sopron,2,Dr. Gasztonyi László,308,2136,2444,DK,t
+Győr-Moson-Sopron,2,Juhász István,178,859,1037,MSZP-P,f
+Győr-Moson-Sopron,2,Balla Jenő,227,542,769,Momentum,f
+Győr-Moson-Sopron,2,Németh Eszter,145,302,447,Momentum,f
+Győr-Moson-Sopron,3,Kovácsné Varga Ildikó,220,1410,1630,MSZP-P,t
+Győr-Moson-Sopron,3,Orbán Krisztián,350,684,1034,Momentum,f
+Győr-Moson-Sopron,4,Dr. Brenner Koloman,632,2605,3237,Jobbik,t
+Győr-Moson-Sopron,4,Jakál Adrienn,264,982,1246,Párbeszéd,f
+Győr-Moson-Sopron,5,Magyar Zoltán,485,2878,3363,Jobbik,t
+Győr-Moson-Sopron,5,Balázs Endre,248,723,971,Momentum,f
+Hajdú-Bihar,1,Varga Zoltán,272,2486,2758,DK,t
+Hajdú-Bihar,1,Szabó Bence,423,1163,1586,Momentum,f
+Hajdú-Bihar,1,Dr. Pálinkás József,445,1120,1565,UVNP,f
+Hajdú-Bihar,1,Illés Rácz Mariann,46,127,173,Jobbik,f
+Hajdú-Bihar,2,Mándi László,760,2185,2945,Momentum,t
+Hajdú-Bihar,2,Vaszkó Imre,207,1973,2180,DK,f
+Hajdú-Bihar,2,Fülep Olivér,58,185,243,Jobbik,f
+Hajdú-Bihar,3,Salamon Gergő,192,1111,1303,Jobbik,t
+Hajdú-Bihar,3,Szörényi Károly,129,927,1056,DK,f
+Hajdú-Bihar,3,Kosztin Mihály,298,546,844,Momentum,f
+Hajdú-Bihar,3,Szórádi Sándor,68,295,363,Párbeszéd,f
+Hajdú-Bihar,3,Szabó Zsolt,20,67,87,Jobbik,f
+Hajdú-Bihar,4,Szántai László,331,756,1087,Momentum,t
+Hajdú-Bihar,4,Szabó Patrik,109,652,761,DK,f
+Hajdú-Bihar,4,Bihary Judit,82,508,590,MSZP-P,f
+Hajdú-Bihar,5,Kiss László,456,1199,1655,Momentum,t
+Hajdú-Bihar,5,Bangóné Borbély Ildikó,151,1231,1382,MSZP-P,f
+Hajdú-Bihar,6,Hegedűs Péter,435,1683,2118,Jobbik,t
+Hajdú-Bihar,6,Tóth József,146,1810,1956,DK,f
+Hajdú-Bihar,6,Tömöri Zsolt Sándor,113,979,1092,Momentum,f
+Heves,1,Berecz Mátyás,654,3287,3941,DK,t
+Heves,1,Jánosi Zoltán,429,1078,1507,Momentum,f
+Heves,2,Dudás Róbert,688,4093,4781,Jobbik,t
+Heves,3,Korózs Lajos,217,2023,2240,MSZP-P,t
+Heves,3,Lőcsei Lajos,317,1048,1365,Momentum,f
+Heves,3,Varga Ferenc,77,431,508,UVNP,f
+Jász-Nagykun-Szolnok,1,Sziráki Pál,592,3500,4092,DK,t
+Jász-Nagykun-Szolnok,1,Tóth Áron,277,898,1175,LMP,f
+Jász-Nagykun-Szolnok,1,Dr. Kármán Irén,348,796,1144,Momentum,f
+Jász-Nagykun-Szolnok,2,Kertész Ottó,0,1627,1627,MSZP-P,t
+Jász-Nagykun-Szolnok,2,Gedei József,0,1141,1141,DK,f
+Jász-Nagykun-Szolnok,3,Dr. Lukács László,468,2653,3121,Jobbik,t
+Jász-Nagykun-Szolnok,3,Turo Vilmos,62,531,593,DK,f
+Jász-Nagykun-Szolnok,3,Kozma Dániel,102,82,184,Momentum,f
+Jász-Nagykun-Szolnok,4,Csányi Tamás,571,3564,4135,Jobbik,t
+Komárom-Esztergom,1,Konczer Erik,458,3841,4299,DK,t
+Komárom-Esztergom,1,Gurmai Zita,468,1684,2152,MSZP-P,f
+Komárom-Esztergom,2,Nunkovics Tibor,1010,3831,4841,Jobbik,t
+Komárom-Esztergom,3,Nemes Andrea,497,2726,3223,MSZP-P,t
+Komárom-Esztergom,3,Szanyi Gábor,317,2109,2426,Jobbik,f
+Nógrád,1,Godó Beatrix,228,2383,2611,DK,t
+Nógrád,1,Horváth Ferenc,320,909,1229,Momentum,f
+Nógrád,1,Dömsödi Gábor,153,593,746,UVNP,f
+Nógrád,2,Gyenes Szilárd,740,1500,2240,Momentum,t
+Pest,1,Dr. Bősz Anett,844,4742,5586,DK,t
+Pest,1,Tetlák Örs,365,1591,1956,LMP,f
+Pest,1,Ollero Marco Irén,412,1226,1638,Momentum,f
+Pest,2,Szél Bernadett,2568,7614,10182,Momentum,t
+Pest,2,Hegyesi Beáta,215,2124,2339,DK,f
+Pest,3,Buzinkay György,1041,2272,3313,Momentum,t
+Pest,3,Pál Gábor,505,2507,3012,Jobbik,f
+Pest,3,Kóder György,546,1152,1698,LMP,f
+Pest,3,Dr. Katona Andrea,234,593,827,LMP,f
+Pest,4,Inotay Gergely,483,2283,2766,Jobbik,t
+Pest,4,Juhász Béla Róbert,450,1966,2416,Momentum,f
+Pest,4,Gyurcsik Ádám,131,392,523,LMP,f
+Pest,5,Dorosz Dávid,1443,5067,6510,Párbeszéd,t
+Pest,5,Tonzor Péter,460,2925,3385,DK,f
+Pest,5,Fekete László,117,366,483,UVNP,f
+Pest,6,Hohn Krisztina,912,2436,3348,LMP,t
+Pest,6,Simon Erika,352,2022,2374,DK,f
+Pest,6,Varga Zoltán,503,1297,1800,Momentum,f
+Pest,7,Fricsovszky-Tóth Péter,680,3640,4320,Jobbik,t
+Pest,7,Farag Alexandra,650,1833,2483,Momentum,f
+Pest,8,Jószai Teodóra,600,3502,4102,DK,t
+Pest,8,Nagy János,824,3090,3914,Jobbik,f
+Pest,9,Dr. Schmuck Erzsébet,666,2019,2685,LMP,t
+Pest,10,Gér Mihály,567,2204,2771,Párbeszéd,t
+Pest,10,Magdics Máté,146,1045,1191,DK,f
+Pest,11,Jánosi-Lesi Ágota,439,1937,2376,DK,t
+Pest,11,Andrejka Zombor,660,1236,1896,Momentum,f
+Pest,12,Zágráb Nándor,506,2139,2645,Jobbik,t
+Pest,12,László Ferenc,88,420,508,MSZP-P,f
+Pest,12,Sipos Mihány,102,334,436,LMP,f
+Somogy,1,Dr. Varga István,349,2495,2844,DK,t
+Somogy,1,Horváth Ákos Ervin,332,1248,1580,Jobbik,f
+Somogy,1,Bereczki Dávid,166,344,510,Momentum,f
+Somogy,2,Ander Balázs,395,2433,2828,Jobbik,t
+Somogy,2,Remes Gábor,107,713,820,DK,f
+Somogy,3,Dr. Steinmetz Ádám,594,1870,2464,Jobbik,t
+Somogy,4,Potocskáné Kőrösi Anita,570,2414,2984,Jobbik,t
+Somogy,4,Dr. Kovács Miklós,234,1299,1533,DK,f
+Szabolcs-Szatmár-Bereg,1,Lengyel Máté,752,3711,4463,Jobbik,t
+Szabolcs-Szatmár-Bereg,1,Dr. Csipkés József,344,759,1103,Momentum,f
+Szabolcs-Szatmár-Bereg,2,Aranyos Gábor,236,1153,1389,MSZP-P,t
+Szabolcs-Szatmár-Bereg,2,Dr. Gyüre Csaba,256,700,956,Jobbik,f
+Szabolcs-Szatmár-Bereg,2,Kiss Krisztián,198,316,514,UVNP,f
+Szabolcs-Szatmár-Bereg,3,Tóth Viktor,522,887,1409,Jobbik,t
+Szabolcs-Szatmár-Bereg,3,Sárosy Zoltán,128,822,950,MSZP-P,f
+Szabolcs-Szatmár-Bereg,4,Dr. Sápi Mónika,270,790,1060,DK,t
+Szabolcs-Szatmár-Bereg,4,Dr. Bíróné Dienes Csilla,230,755,985,MSZP-P,f
+Szabolcs-Szatmár-Bereg,5,Földi István,343,1882,2225,Jobbik,t
+Szabolcs-Szatmár-Bereg,5,Dr. Papp Ildikó,112,989,1101,MSZP-P,f
+Szabolcs-Szatmár-Bereg,6,Tóth Viktor,115,1140,1255,MSZP-P,t
+Szabolcs-Szatmár-Bereg,6,Dr. Bélteki Béla,282,940,1222,Jobbik,f
+Szabolcs-Szatmár-Bereg,6,Czirják Alexandra,59,458,517,DK,f
+Szabolcs-Szatmár-Bereg,6,Pradlik Milán,0,123,123,DK,f
+Tolna,1,Harangozó Tamás,328,2289,2617,MSZP-P,t
+Tolna,1,Bozsolik Róbert,297,1792,2089,Jobbik,f
+Tolna,2,Szabó Lóránd,190,1419,1609,DK,t
+Tolna,2,Száraz Zoltán,317,848,1165,Momentum,f
+Tolna,3,Bencze János,449,974,1423,Jobbik,t
+Tolna,3,Tóth Attila Szilveszter,176,975,1151,DK,f
+Vas,1,Dr. Czeglédy Csaba,293,3544,3837,DK,t
+Vas,1,Ungár Péter,675,2986,3661,LMP,f
+Vas,1,Koczka Tibor,34,76,110,UVNP,f
+Vas,2,Hencz Kornél,349,1062,1411,MSZP-P,t
+Vas,2,Szilágyi Tamás,162,901,1063,DK,f
+Vas,2,Bányai-Németh Gábor,237,265,502,Momentum,f
+Vas,3,Bana Tibor,376,1731,2107,LMP,t
+Vas,3,Pleva Dániel,306,740,1046,Momentum,f
+Veszprém,1,Csonka Balázs,776,2913,3689,DK,t
+Veszprém,1,Mesterházy Attila,275,1546,1821,MSZP-P,f
+Veszprém,2,Benedek Szilveszter,452,2457,2909,DK,t
+Veszprém,2,Szecsődi Andrea,720,1398,2118,Momentum,f
+Veszprém,3,Rig Lajos,901,2697,3598,Jobbik,t
+Veszprém,4,Grőber Attila,323,1719,2042,DK,t
+Veszprém,4,Süle Zsolt,132,628,760,Jobbik,f
+Veszprém,4,Dr. Jádi István,178,206,384,Momentum,f
+Zala,1,Dr. Csidei Irén,231,1697,1928,DK,t
+Zala,1,Föőr Gábor,251,774,1025,Jobbik,f
+Zala,1,Plesz Dóra,301,610,911,Momentum,f
+Zala,1,Benke Richárd,109,509,618,Jobbik,f
+Zala,1,Dr. Paksy Zoltán,89,174,263,LMP,f
+Zala,2,Elekes István,421,859,1280,Momentum,t
+Zala,2,Czuth Zoltán László,199,997,1196,MSZP-P,f
+Zala,2,Molnár Tibor,267,514,781,UVNP,f
+Zala,3,Horváth Jácint,355,2601,2956,DK,t
+Zala,3,Berta Krisztián,413,1138,1551,Jobbik,f
